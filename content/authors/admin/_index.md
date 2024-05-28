@@ -77,16 +77,16 @@ education:
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Teaching Assistant
-    company_name: GenCoin
+    company_name: Department of Computer Science, Stony Brook University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-08-28
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses:
+      - [Software Security](https://amir.rahmati.com/teaching/cse360f23/)
+      - Computer Networks
+      
 #   - position: Backend Software Engineer
 #     company_name: X
 #     company_url: ''
