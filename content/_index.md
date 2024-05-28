@@ -27,6 +27,7 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: experience
     content:
+      title: Teaching Assistantships
       username: admin
     design:
       # Hugo date format
