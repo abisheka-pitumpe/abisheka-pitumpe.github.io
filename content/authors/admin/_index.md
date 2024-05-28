@@ -85,7 +85,7 @@ work:
     summary: |2-
       Courses:
       - [Software Security](https://amir.rahmati.com/teaching/cse360f23/)
-      - Computer Networks
+      - [Computer Networks](https://www3.cs.stonybrook.edu/~jain/CSE310-SP2024/index.html)
       
 #   - position: Backend Software Engineer
 #     company_name: X
