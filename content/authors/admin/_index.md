@@ -30,8 +30,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:ca.pitumpe@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/abisheka-pitumpe
   - icon: brands/linkedin
@@ -169,4 +169,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am a Ph.D. candidate in Computer Science at Stony Brook University, where I work in the Ethos Lab under the guidance of Prof. Amir Rahmati. My research primarily addresses security challenges associated with the web and the Internet of Things (IoT). I am dedicated to developing and advancing technologies that enhance data privacy and strengthen global information system security.
