@@ -44,12 +44,7 @@ education:
     institution: Ethos Lab, Stony Brook University
     date_start: 2023-08-28
     date_end: ''
-    # summary: |
-    #   Courses included:
-    #   - Data Science Fundamentals
-    #   - System Security
-    #   - Network Security
-    #   - Visualization
+    summary: My research focuses on developing methodologies to detect and protect against internet scams, such as pig butchering scams. I design automated pipelines which leverage Large Language Models (LLMs) like Mistral, Llama3, and GPT‑4o to improve scam classification accuracy, while designing online crawlers with Selenium to automate scam detection.
 #     button:
 #       text: ''
 #       url: ''
