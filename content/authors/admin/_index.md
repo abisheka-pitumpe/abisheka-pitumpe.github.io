@@ -44,7 +44,7 @@ education:
     institution: Ethos Lab, Stony Brook University
     date_start: 2023-08-28
     date_end: ''
-    summary: My research focuses on developing methodologies to detect and protect against internet scams, such as pig butchering scams. I design automated pipelines which leverage Large Language Models (LLMs) like Mistral, Llama3, and GPT‑4o to improve scam classification accuracy, while designing online crawlers with Selenium to automate scam detection.
+    # summary: 
 #     button:
 #       text: ''
 #       url: ''
@@ -168,4 +168,4 @@ work:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am a Ph.D. candidate in Computer Science at Stony Brook University, where I work in the Ethos Lab under the guidance of [Prof. Amir Rahmati](https://amir.rahmati.com/). My research primarily addresses security challenges associated with the web and the Internet of Things (IoT). I am dedicated to developing and advancing technologies that enhance data privacy and strengthen global information system security.
+I am a Ph.D. candidate in Computer Science at Stony Brook University, where I work in the Ethos Lab under the guidance of [Prof. Amir Rahmati](https://amir.rahmati.com/). My research focuses on developing methodologies to detect and protect against internet scams, such as pig butchering scams. I design automated pipelines which leverage Large Language Models (LLMs) like Mistral, Llama3, and GPT‑4o to improve scam classification accuracy, while designing online crawlers with Selenium to automate scam detection.
